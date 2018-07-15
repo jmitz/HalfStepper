@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-HalfStepper	KEYWORD1	HalfStepper
+HalfStepper	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
